@@ -4,7 +4,6 @@
 Today, we want to create a class called `Pair` which stores two values i.e. left and right. Let us start with a simple pair where both the values are of the String type. You should be able to create a pair of Strings and access the left and right values.
 
 ```java
-
 ```
 
 ## Question 2
